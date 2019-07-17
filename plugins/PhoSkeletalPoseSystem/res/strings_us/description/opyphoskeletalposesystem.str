@@ -1,0 +1,6 @@
+STRINGTABLE Opyphoskeletalposesystem
+{
+	Opyphoskeletalposesystem								"Pho Skeletal Pose Object";
+
+	PYCIRCLEOBJECT_RAD	"Radius";
+}
